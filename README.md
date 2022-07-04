@@ -1,4 +1,4 @@
-# Django-Crud
+It# Django-Crud
 A submission in fulfilment of ZURI full-stack task
 
 
@@ -97,3 +97,4 @@ path("blog/", include("blog.urls", namespace="blog"))
 Stage and Commit your Django project and push your changes to your GitHub repository. 
 
 Do not add your database (db.sqlite) to version control (GitHub). 
+toto is continued
